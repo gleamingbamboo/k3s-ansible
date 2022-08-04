@@ -1,7 +1,7 @@
 ---
 k3s_version: v1.23.4+k3s1
 # this is the user that has ssh access to these machines
-ansible_user: root
+ansible_user: elytvyn
 systemd_dir: /etc/systemd/system
 
 # Set your timezone
